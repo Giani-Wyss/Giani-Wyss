@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giani-Wyss
-- 👀 I’m interested in gaming and learning new and exiting stuff
-- 🌱 I’m currently learning at IMS Luzern
+- 👀 I’m interested in learning new and exiting stuff
+- ⚽️ Football referee
 
 <!---
 Giani-Wyss/Giani-Wyss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
